@@ -4,5 +4,9 @@
   },
   "[prisma]": {
     "editor.formatOnSave": true
-  }
+  },
+  "cSpell.words": [
+    "acodec",
+    "libmp"
+  ]
 }
